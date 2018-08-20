@@ -1,0 +1,14 @@
+Device: High Definition Audio Device Headphones 
+Channel: all
+Preamp: -3 dB
+Filter 1: ON PK Fc 30 Hz Gain 3.5 dB Q 1.8
+Filter 2: ON PK Fc 60 Hz Gain -0.5 dB Q 3
+Filter 3: ON PK Fc 90 Hz Gain 1.5 dB Q 1.9
+Filter 4: ON PK Fc 245 Hz Gain 3 dB Q 1.6
+Filter 5: ON PK Fc 700 Hz Gain -1 dB Q 2.7
+Filter 6: ON PK Fc 1300 Hz Gain -1 dB Q 5.8
+Filter 7: ON PK Fc 3000 Hz Gain -3.5 dB Q 2.8
+Filter 8: ON PK Fc 6900 Hz Gain -6.5 dB Q 2.5
+Filter 9: ON PK Fc 9900 Hz Gain -16 dB Q 3.2
+Filter 10: ON PK Fc 10300 Hz Gain 3 dB Q 3
+Filter 11: ON PK Fc 14000 Hz Gain 12 dB Q 1.5

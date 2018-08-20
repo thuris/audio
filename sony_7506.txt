@@ -1,4 +1,7 @@
 Device: High Definition Audio Device Headphones 
+#Parametric adjustment of Sony MDR-7506 headphones to cut fatiguing highs, 
+#reduce nasality, bring out low bass and add air/brilliance. 
+#Settings were found first by attempting to flatten the response, then by adjusting to taste.
 Channel: all
 Preamp: -3 dB
 Filter 1: ON PK Fc 30 Hz Gain 3.5 dB Q 1.8
